@@ -19,12 +19,7 @@ import org.json.JSONObject;
 
 public class MainActivity extends Activity {
 
-    /**
-     * Fragment managing the behaviors, interactions and presentation of the navigation drawer.
-     */
-    /**
-     * version 1.2
-     */
+
 
     Button bu;
     EditText et;
