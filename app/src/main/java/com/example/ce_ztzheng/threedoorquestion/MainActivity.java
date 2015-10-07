@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
      * Fragment managing the behaviors, interactions and presentation of the navigation drawer.
      */
     /**
-     * version 1.0
+     * version 1.1
      */
 
     Button bu;
