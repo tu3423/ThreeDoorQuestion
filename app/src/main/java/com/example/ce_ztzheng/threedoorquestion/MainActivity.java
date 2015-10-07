@@ -25,7 +25,9 @@ public class MainActivity extends Activity {
     /**
      * version 1.2
      */
-
+    /**
+     * Fragment managing the behaviors, interactions and presentation of the navigation drawer.
+     */
     Button bu;
     EditText et;
     TextView tv;
